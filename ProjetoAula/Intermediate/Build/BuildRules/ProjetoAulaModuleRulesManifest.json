@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\UnrealProjects\\ProjetoAula\\Source\\ProjetoAula\\ProjetoAula.Build.cs",
+		"F:\\UnrealProjects\\ProjetoAula\\Source\\ProjetoAula.Target.cs",
+		"F:\\UnrealProjects\\ProjetoAula\\Source\\ProjetoAulaEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
