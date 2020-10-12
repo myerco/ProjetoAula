@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjetoAula",
+			"Path": "F:\\UnrealProjects\\ProjetoAula\\ProjetoAula\\ProjetoAula\\Source\\ProjetoAula.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjetoAulaEditor",
+			"Path": "F:\\UnrealProjects\\ProjetoAula\\ProjetoAula\\ProjetoAula\\Source\\ProjetoAulaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

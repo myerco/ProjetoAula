@@ -1,2 +1,0 @@
-F:\UnrealProjects\ProjetoAula\Intermediate\Build\Win64\UE4Editor\Development\ProjetoAula\Definitions.ProjetoAula.h
-F:\UnrealProjects\ProjetoAula\Source\ProjetoAula\ProjetoAula.h
