@@ -1,7 +1,5 @@
 # ProjetoAula
-![unreal engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
-Unreal Engine:  Versão 4.26.2
+![unreal engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)4.26.2
 
 Projeto:  Aula de Unreal Engine
 
