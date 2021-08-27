@@ -9,6 +9,6 @@ public class ProjetoAulaTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ProjetoAula" } );
+		ExtraModuleNames.AddRange( new string[] { "ProjetoAula","HeadMountedDisplay" } );
 	}
 }

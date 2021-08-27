@@ -9,6 +9,6 @@ public class ProjetoAulaEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ProjetoAula" } );
+		ExtraModuleNames.AddRange( new string[] { "ProjetoAula","HeadMountedDisplay" } );
 	}
 }
