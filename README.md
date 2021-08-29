@@ -7,16 +7,19 @@ Projeto:  Aula de Unreal Engine
 
 
 
-## Clonando o Projeto
+## Preparando o projeto
+
+1. Clonando o projeto
 ```
 git clone https://github.com/myerco/ProjetoAula.git
 ```
 
-## Assets básicos
+2. Importe os seguintes Assets
 - ThirdPerson
 - StarterContent
 - MobileStarterContent
-
+- AnimStarterPack
+> Utilize o acesso a loja/Store para importar AnimStarterPack
 
 ## Referências
 - [Death VIP](http://cafegeek.eti.br/trabalhos/modelo_gdd_death_vip.html)
