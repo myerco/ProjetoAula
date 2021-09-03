@@ -19,6 +19,7 @@ git clone https://github.com/myerco/ProjetoAula.git
 - MobileStarterContent
 - AnimStarterPack
 > Utilize o acesso a loja/Store para importar AnimStarterPack
+
 3. Mova os pacotes para a pasta `ExampleContent`.
 
 ## Referências
